@@ -33,5 +33,15 @@
 - scikit-learn | MLFlow | PyCaret | Vader | spaCy | Hugging Face Transformer
 
 ## Project 4: Virus Presence Prediction and Cost-Benefit Analysis
+**Aim**
+- 1) Build a classification model with time-series and geographical data to predict virus presence in mosquitoes
+- 2) Run a cost-benefit analysis of mosquito control measures to optimize effectiveness while minimizing costs.
+
+**Methodology**
+- Address imbalanced classes using techniques like random under sampling, random over sampling, SMOTE (synthetic minority over-sampling technique)
+- Visualize geographical distribution of mosquito breeding sites and locations of mosquito control measures
+
+**Tools**
+- matplotlib | plotly | 
 
 ## Project 5: Computer Vision Based Fashion Product Recommender
