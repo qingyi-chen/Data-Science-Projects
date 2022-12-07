@@ -6,7 +6,7 @@
 <br>
 
 **Tools**
-Python Pandas| Matplotlib | Seaborn
+- Python Pandas| Matplotlib | Seaborn
 
 ## Project 2: Housing Price Prediction using Regression Model
 - Ridge
