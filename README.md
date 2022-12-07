@@ -45,3 +45,15 @@
 - matplotlib | plotly | 
 
 ## Project 5: Computer Vision Based Fashion Product Recommender
+**Aim**
+- Develop a web application for image-search enabled fashion product recommender to improve online shopping experience
+
+**Methodology**
+- Both content-based filtering and collaborative filtering were used to build the recommender
+- Contrastive Language-Image Pre-Training (CLIP) model was used to allow image-to-image or text-to-image search
+- To reduce computational time for collaborative filtering, Alternating Least Square Matrix Factorisation and Hierarchical Navigable Small Worlds (HNSW) were used.
+
+**Tools**
+- Hugging Face Sentence Transformer | implicit | nmslib | flask | streamlit 
+
+
