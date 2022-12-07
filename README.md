@@ -30,11 +30,12 @@
 
 **Methodology**
 - Webscraping of Reddit posts using API
-- Explore a variety of classification algorithm (probabilistic model, distance-based algorithm, tree based algorithm and ensemble models), using MLFlow and PyCaret to keep track of experiment results
+- Text preprocessing using regex, nltk(for tokenization, lemmatising, stemming) and sklearn(for vectorization)
+- Explore a variety of classification algorithm (probabilistic model, distance-based algorithm, tree based algorithm and ensemble models)
 - Sentiment analysis
 
 **Tools**
-- scikit-learn | MLFlow | PyCaret | Vader | spaCy | Hugging Face Transformer
+- scikit-learn | nltk | MLFlow | PyCaret | Vader | spaCy | Hugging Face Transformer
 
 ## Project 2: Housing Price Prediction using Regression Model
 **Aim**
