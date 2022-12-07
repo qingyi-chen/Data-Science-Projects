@@ -5,6 +5,7 @@
 - Performed exploratory data analysis of SAT scores by major and by college to provide recommendations for students applying for colleges.
 <br>
 **Tools**:
+
 Python Pandas| Matplotlib | Seaborn
 
 ## Project 2: Housing Price Prediction using Regression Model
