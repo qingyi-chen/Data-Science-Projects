@@ -3,6 +3,7 @@
 ## Project 1: SAT Score Analysis for College Admission
 **Aim**:
 - Performed exploratory data analysis of SAT scores by major and by college to provide recommendations for students applying for colleges.
+<br>
 **Tools**:
 Python Pandas| Matplotlib | Seaborn
 
